@@ -1,6 +1,6 @@
 {
   "name": "@koassi/react-eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish my React eslint config to npm",
   "main": "index.js",
   "scripts": {
