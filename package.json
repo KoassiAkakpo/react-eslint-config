@@ -1,0 +1,26 @@
+{
+  "name": "@koassi/react-eslint-config",
+  "version": "1.0.0",
+  "description": "Publibish my React eslint config to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoassiAkakpo/react-eslint-config.git"
+  },
+  "keywords": [
+    "Eslint",
+    "React",
+    "config",
+    "prettier",
+    "javascript"
+  ],
+  "author": "Koassi AKAKPO <akakpo.koassi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KoassiAkakpo/react-eslint-config/issues"
+  },
+  "homepage": "https://github.com/KoassiAkakpo/react-eslint-config#readme"
+}
